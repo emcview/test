@@ -1,2 +1,2 @@
-Version=8.23
-Date=28.12.21
+current version 8.23
+
