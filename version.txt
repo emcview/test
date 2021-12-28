@@ -1,2 +1,2 @@
-current version 8.19
+latest version = 8.19
 
