@@ -1,1 +1,1 @@
-260522: Problem with SSA3000X FW 2.1.1.2, tracedata can not be read by emcview, a workaround is in evaluation (V8.27c) 
+020622: Problem with SSA3000X FW 2.1.1.1, tracedata can not be read by emcview, sweep is in fft mode. A workaround is in evaluation (V8.27d) and is working user-confirmed until further notice with FW 2.1.1.3 from Siglent. 
